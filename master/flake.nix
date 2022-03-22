@@ -9,7 +9,7 @@
   
   inputs.src-urlshortener-master.flake = false;
   inputs.src-urlshortener-master.owner = "jabbalaci";
-  inputs.src-urlshortener-master.ref   = "refs/heads/master";
+  inputs.src-urlshortener-master.ref   = "master";
   inputs.src-urlshortener-master.repo  = "UrlShortener";
   inputs.src-urlshortener-master.type  = "github";
   
